@@ -1,5 +1,5 @@
 ---
-title: "MyLabJournal"
+title: "Detecting IPV-related Suicides in NVDRS"
 output: html_document
 ---
 
@@ -17,27 +17,28 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **My Lab Journal**
+# **Detecting IPV-related Suicides in NVDRS**
 
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
+This website serves as a resource for those who wish to use the IPV classifier tool to detect IPV circumstances for suicide, which was developed as part of Julie M Kafka's dissertation (2022).
+
 
 ## How to use
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
+All you need to run the IPV Classifier is:
 
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
+1. Your copy of the Restricted Access Datafiele (RAD) for the National Violent Death Reporting System (NVDRS). The NVDRS RAD is available upon request from [the CDC](https://www.cdc.gov/violenceprevention/datasources/nvdrs/dataaccess.html).
 
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
+2. Our Concept Term Lists, which is available to download from the [Resources tab](https://crumplab.github.io/LabJournalWebsite/Journal.html). #JK TO UPDATE LINK
 
-4. Change everything to make it your own.
+3. The IPV Classifier model itself, also available to download from the [Resources tab](https://crumplab.github.io/LabJournalWebsite/Journal.html). #JK TO UPDATE LINK
 
 
 </div>
 <div class="col-sm-6">
 
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
+### [UNC Injury Prevention Research Center](https://iprc.unc.edu/)
 
 <a href = "https://crumplab.github.io">
-![](images/logo.png)
+![](images/logo_JK.png)
 </a>
 </div>
