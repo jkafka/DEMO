@@ -1,6 +1,6 @@
-name: "MyLabJournal"
+name: "Detecting IPV-related Suicides in NVDRS"
 navbar:
-  title: "MyLabJournal"
+  title: "Detecting IPV-related Suicides in NVDRS"
   left:
     - text: "Home"
       href: index.html
